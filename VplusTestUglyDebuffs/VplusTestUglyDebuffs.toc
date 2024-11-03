@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: VplusTestUglyDebuffs v0.1
+## Notes: Test Ugly Debuffs for Vanilla Plus Server.
+
+VplusTestUglyDebuffs.lua
