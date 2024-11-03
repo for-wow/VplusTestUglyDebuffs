@@ -7,6 +7,6 @@ Addon for Vanilla Plus server.
 3. Copy folder `VplusTestUglyDebuffs` to addons folder: `.. \ WOW \ Interface \ AddOns \`
 
 ### Description:
-The addon scans the combat log and tries to find the events of the start and end of the debuff. These events change the frame's line list. When the target is changed, the line list is cleared. I'm not sure this addon finds all debuff start events and I ask you to check it with different classes.
+The addon scans the combat log and tries to find the events of the start and end of the debuff. These events change the frame's line list. When the target is changed, the line list is cleared. I'm not sure this addon finds all debuff start events and I ask you to check it with different classes. You can move the addon frame around the screen.
 
 ![Addon screenshot #1](IMG_1.png)
